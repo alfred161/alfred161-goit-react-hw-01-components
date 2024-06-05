@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/alfred161-goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/alfred161-goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/alfred161-goit-react-hw-01-components/static/css/main.f2528ae3.css",
+    "main.js": "/alfred161-goit-react-hw-01-components/static/js/main.580c7512.js",
     "index.html": "/alfred161-goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/alfred161-goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/alfred161-goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.f2528ae3.css.map": "/alfred161-goit-react-hw-01-components/static/css/main.f2528ae3.css.map",
+    "main.580c7512.js.map": "/alfred161-goit-react-hw-01-components/static/js/main.580c7512.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.f2528ae3.css",
+    "static/js/main.580c7512.js"
   ]
 }
