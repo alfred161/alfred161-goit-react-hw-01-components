@@ -1,0 +1,40 @@
+.item {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 300px;
+  padding: 6px 0;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  margin: 14px;
+}
+
+.online {
+  composes: status;
+  background-color: green;
+}
+
+.offline {
+  composes: status;
+  background-color: red;
+}
+
+.avatar {
+  width: 72px;
+  margin-right: 16px;
+  background-color: grey;
+  border-radius: 6px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 400;
+}
